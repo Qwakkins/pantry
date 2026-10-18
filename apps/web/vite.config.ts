@@ -12,8 +12,8 @@ export default defineConfig({
       registerType: 'autoUpdate',
       includeAssets: ['favicon.svg'],
       manifest: {
-        name: 'Other Half',
-        short_name: 'Other Half',
+        name: 'Pantry',
+        short_name: 'Pantry',
         description: 'Never waste the other half of a one-off ingredient.',
         theme_color: '#3f6212',
         background_color: '#ffffff',

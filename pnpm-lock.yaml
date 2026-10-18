@@ -199,7 +199,7 @@ importers:
 
   apps/web:
     dependencies:
-      '@other-half/engine':
+      '@pantry/engine':
         specifier: workspace:*
         version: link:../../packages/engine
       react:
